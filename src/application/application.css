@@ -1,0 +1,53 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+/*Insert*/
+#insertButton{
+	-fx-background-color: #4CAF50; 
+	-fx-text-fill: white;
+	-fx-font-size:15px;
+	-fx-background-radius: 5px;
+}
+#updateButton{
+	-fx-background-color:#008CBA;
+	-fx-text-fill:white;
+	-fx-font-size:15px;
+	-fx-background-radius: 5px;
+}
+#searchButton{
+  -fx-background-color:red;
+  -fx-text-fill:white;
+  -fx-font-size:15px;
+  -fx-background-radius: 5px;
+}
+#box{
+	-fx-background-color: #71b7e6, #9b59b6
+}
+#idLabel{
+	-fx-text-fill:white;
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+}
+#nameLabel{
+	-fx-text-fill:white;
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+}
+#ageLabel{
+	-fx-text-fill:white;
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+}
+#yearLabel{
+	-fx-text-fill:white;
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+}
+#genderLabel{
+	-fx-text-fill:white;
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+}
+#departmentLabel{
+	-fx-text-fill:white;
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+}
